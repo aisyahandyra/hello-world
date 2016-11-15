@@ -1,3 +1,2 @@
 # hello-world
-hi... iam new in github.
-please dont blame me.. :-)
+lets learning and sharing with your knowledge to everyone.
