@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+lets learning and sharing.
